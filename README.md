@@ -2,7 +2,7 @@
 
 What is here:
 
-* **xmlTransform.php** - PHP Class that transforms XSLT formats, dynamically.
+* **php/xmlTransform.php** - PHP Class that transforms XSLT formats, dynamically.
 
 * **Destination-Configuration-mappings.png** - Screenshot of how you can choose to publish certain configurations (specifically desktop vs mobile) to different Destinations. All Destinations will make use of the Web URL field so Cascade can access the domain information.
 
