@@ -1,6 +1,6 @@
 ## Union in Your Area ##
 
-Lists college fair and high school, by state, using an XML file exported from the Colleague system.
+Lists Union College's admissions schedule of college fairs and high schools, by state, using an XML file exported from the Colleague system.
 
 [http://www.union.edu/admissions/in-your-area](http://www.union.edu/admissions/in-your-area)
 
