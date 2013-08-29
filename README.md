@@ -1,16 +1,13 @@
 ## Union in Your Area ##
 
-Lists college fairs and high schools, by state, where [Union College](http://www.union.edu) admissions representatives will be available to meet with potential applicants.
+Lists college fair and high school, by state, using an XML file exported from the Colleague system.
 
 [http://www.union.edu/admissions/in-your-area](http://www.union.edu/admissions/in-your-area)
 
 #### Requirements ####
 
-Cascade Server
-An XML file exported from Colleague
-XSLT 1.0
-
-
+* Cascade Server
+* XSLT 1.0
 
 What is here:
 
