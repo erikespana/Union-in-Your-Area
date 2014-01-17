@@ -1,5 +1,3 @@
-## Union in Your Area ##
-
 Lists the schedule of college fairs and high schools our admissions counselors are attending, using data exported from Colleague, segmented by state.
 
 [http://www.union.edu/admissions/in-your-area](http://www.union.edu/admissions/in-your-area)
